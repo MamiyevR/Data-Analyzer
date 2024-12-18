@@ -1,4 +1,4 @@
-# FinCatch Interview Project
+# Financial Data Analyzer
 
 ## Installation Guide
 
